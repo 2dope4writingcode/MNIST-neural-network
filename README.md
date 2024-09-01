@@ -1,7 +1,7 @@
 # MNIST-neural-network
 This repository contains a simple feedforward neural network implemented in Python for classifying handwritten digits from the MNIST dataset. The network architecture consists of a single hidden layer and uses the backpropagation algorithm for training.
 
-i## Features
+## Features
 - Input layer with 784 neurons (one for each pixel in the 28x28 MNIST images).
 - A hidden layer with 20 neurons using the sigmoid activation function.
 - Output layer with 10 neurons, each representing a digit from 0 to 9.
